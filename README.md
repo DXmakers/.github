@@ -1,2 +1,2 @@
-# .github
-...exploring the future with rust and...powered by AI
+# DxMakers
+...exploring the future with Rust...powered by AI
